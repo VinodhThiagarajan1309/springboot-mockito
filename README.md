@@ -1,2 +1,4 @@
-# springboot-mockito
-SpringBoot Lead Mockito
+# Springboot Mockito Flashcards
+
+
+- Typical Unit Test `(expectedResult,actualResult)`
