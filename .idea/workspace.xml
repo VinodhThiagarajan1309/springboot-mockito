@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c7a173a-e6e7-4cfb-b608-38503e1f6ed4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/springboot-mockito.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/springboot-mockito.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/voam/springbootmockito/controller/ItemController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/voam/springbootmockito/controller/ItemController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/voam/springbootmockito/domain/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/voam/springbootmockito/domain/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/voam/springbootmockito/service/ItemBusinessService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/voam/springbootmockito/service/ItemBusinessService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/voam/springbootmockito/controller/ItemControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/voam/springbootmockito/controller/ItemControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,31 +35,39 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="16" />
+          <entry key="java" value="35" />
           <entry key="md" value="2" />
-          <entry key="xml" value="2" />
+          <entry key="properties" value="2" />
+          <entry key="sql" value="3" />
+          <entry key="xml" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="16" />
+          <entry key="JAVA" value="35" />
           <entry key="Markdown" value="2" />
-          <entry key="XML" value="2" />
+          <entry key="Properties" value="2" />
+          <entry key="SQL" value="3" />
+          <entry key="XML" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3079" />
+          <entry key="java" value="4346" />
           <entry key="md" value="95" />
-          <entry key="xml" value="12" />
+          <entry key="properties" value="46" />
+          <entry key="sql" value="16" />
+          <entry key="xml" value="47" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3079" />
+          <entry key="JAVA" value="4346" />
           <entry key="Markdown" value="95" />
-          <entry key="XML" value="12" />
+          <entry key="Properties" value="46" />
+          <entry key="SQL" value="16" />
+          <entry key="XML" value="47" />
         </counts>
       </usages-collector>
     </session>
@@ -59,61 +75,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/voam/springbootmockito/business/SomeBusinessImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-              <folding>
-                <element signature="e#200#201#0" expanded="true" />
-                <element signature="e#252#253#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/voam/springbootmockito/business/SomeBusinessImplMockTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/voam/springbootmockito/list/mock/ListMockTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="80" column="41" selection-start-line="80" selection-start-column="41" selection-end-line="80" selection-end-column="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/voam/springbootmockito/controller/HelloWorldController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="33" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#184#185#0" expanded="true" />
-                <element signature="e#209#210#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/voam/springbootmockito/controller/HelloWorldControllerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="45" column="29" lean-forward="true" selection-start-line="32" selection-start-column="6" selection-end-line="45" selection-end-column="29" />
+            <state relative-caret-position="204">
+              <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -122,40 +87,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/voam/springbootmockito/controller/ItemController.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/voam/springbootmockito/service/ItemBusinessServiceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="19" column="44" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#202#203#0" expanded="true" />
-                <element signature="e#234#235#0" expanded="true" />
-                <element signature="e#597#598#0" expanded="true" />
-                <element signature="e#659#660#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/voam/springbootmockito/service/ItemBusinessService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#173#174#0" expanded="true" />
-                <element signature="e#218#219#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="270">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="45" lean-forward="true" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/voam/springbootmockito/controller/ItemControllerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="83" column="29" lean-forward="true" selection-start-line="83" selection-start-column="29" selection-end-line="83" selection-end-column="29" />
+            <state relative-caret-position="180">
+              <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -163,35 +116,64 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/voam/springbootmockito/domain/Item.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="825">
-              <caret line="55" column="20" lean-forward="true" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="20" />
+            <state relative-caret-position="270">
+              <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
               <folding>
-                <element signature="e#187#188#0" expanded="true" />
-                <element signature="e#212#213#0" expanded="true" />
-                <element signature="e#245#246#0" expanded="true" />
-                <element signature="e#273#274#0" expanded="true" />
-                <element signature="e#304#305#0" expanded="true" />
-                <element signature="e#331#332#0" expanded="true" />
+                <element signature="imports" expanded="true" />
                 <element signature="e#371#372#0" expanded="true" />
-                <element signature="e#403#404#0" expanded="true" />
-                <element signature="e#432#433#0" expanded="true" />
-                <element signature="e#460#461#0" expanded="true" />
-                <element signature="e#499#500#0" expanded="true" />
-                <element signature="e#533#534#0" expanded="true" />
-                <element signature="e#565#566#0" expanded="true" />
-                <element signature="e#596#597#0" expanded="true" />
-                <element signature="e#641#642#0" expanded="true" />
-                <element signature="e#681#682#0" expanded="true" />
+                <element signature="e#399#400#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/mockito/mockito-core/2.23.0/mockito-core-2.23.0.jar!/org/mockito/ArgumentCaptor.class">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="326">
+              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/voam/springbootmockito/business/SomeBusinessImpl.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/voam/springbootmockito/hamcrest/HamcrestMatchersTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" selection-start-line="20" selection-end-line="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/voam/springbootmockito/assertJ/AssertJTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/voam/springbootmockito/jsonPath/JsonPathTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="363">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
             </state>
           </provider>
         </entry>
@@ -207,13 +189,19 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>datasource</find>
+      <find>MockBean</find>
+      <find>sumDataServiceMock</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/com/voam/springbootmockito/service/SumDataService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/voam/springbootmockito/business/SomeBusinessImpl.java" />
@@ -223,10 +211,22 @@
         <option value="$PROJECT_DIR$/src/test/java/com/voam/springbootmockito/list/mock/ListMockTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/voam/springbootmockito/controller/HelloWorldController.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/voam/springbootmockito/controller/HelloWorldControllerTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/voam/springbootmockito/controller/ItemController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/voam/springbootmockito/domain/Item.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/voam/springbootmockito/service/ItemBusinessService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/voam/springbootmockito/controller/ItemController.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/voam/springbootmockito/service/ItemBusinessServiceTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/voam/springbootmockito/data/repository/ItemRepository.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/voam/springbootmockito/data/repository/ItemRepositoryTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/voam/springbootmockito/data/ItemRepository.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/data.sql" />
+        <option value="$PROJECT_DIR$/src/test/java/com/voam/springbootmockito/data/ItemRepositoryTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/voam/springbootmockito/controller/ItemControllerTestIT.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/voam/springbootmockito/controller/ItemControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/voam/springbootmockito/hamcrest/HamcrestMatchersTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/voam/springbootmockito/assertJ/AssertJTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/voam/springbootmockito/jsonPath/JsonPathTest.java" />
       </list>
     </option>
   </component>
@@ -315,16 +315,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="springbootmockito" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot-mockito" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot-mockito" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springbootmockito" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springboot-mockito" type="b2602c69:ProjectViewProjectNode" />
@@ -332,36 +323,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot-mockito" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot-mockito" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot-mockito" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot-mockito" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot-mockito" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot-mockito" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springbootmockito" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot-mockito" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot-mockito" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springbootmockito" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springboot-mockito" type="b2602c69:ProjectViewProjectNode" />
@@ -385,7 +346,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542090397944" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542278407038" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -399,20 +360,28 @@
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
       <recent name="com.voam.springbootmockito.controller" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.voam.springbootmockito.data.repository" />
       <recent name="com.voam.springbootmockito.service" />
-      <recent name="com.voam.springbootmockito.domain" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.voam.springbootmockito.data" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.voam.springbootmockito.assertJ" />
       <recent name="com.voam.springbootmockito.business" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
       <recent name="$PROJECT_DIR$/src/test/java/com/voam/springbootmockito/business" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.voam.springbootmockito.service" />
+      <recent name="com.voam.springbootmockito.domain" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -427,8 +396,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ItemControllerTest.itemFromBusinessLayerTest">
-    <configuration name="HelloWorldControllerTest.helloWorld_basic" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Spring Boot.SpringbootMockitoApplication">
+    <configuration name="HamcrestMatchersTest.learning" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-mockito" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.voam.springbootmockito.hamcrest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.voam.springbootmockito.hamcrest" />
+      <option name="MAIN_CLASS_NAME" value="com.voam.springbootmockito.hamcrest.HamcrestMatchersTest" />
+      <option name="METHOD_NAME" value="learning" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItemControllerTestIT" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="springboot-mockito" />
       <extension name="coverage">
         <pattern>
@@ -437,56 +422,50 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.voam.springbootmockito.controller" />
-      <option name="MAIN_CLASS_NAME" value="com.voam.springbootmockito.controller.HelloWorldControllerTest" />
-      <option name="METHOD_NAME" value="helloWorld_basic" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="com.voam.springbootmockito.controller.ItemControllerTestIT" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ItemControllerTest.dummyItem" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ItemRepositoryTest (1)" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <module name="springboot-mockito" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.voam.springbootmockito.controller.*" />
+          <option name="PATTERN" value="com.voam.springbootmockito.data.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.voam.springbootmockito.controller" />
-      <option name="MAIN_CLASS_NAME" value="com.voam.springbootmockito.controller.ItemControllerTest" />
-      <option name="METHOD_NAME" value="dummyItem" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="com.voam.springbootmockito.data" />
+      <option name="MAIN_CLASS_NAME" value="com.voam.springbootmockito.data.ItemRepositoryTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ItemControllerTest.itemFromBusinessLayerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ItemRepositoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="springboot-mockito" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.voam.springbootmockito.controller.*" />
+          <option name="PATTERN" value="com.voam.springbootmockito.data.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.voam.springbootmockito.controller" />
-      <option name="MAIN_CLASS_NAME" value="com.voam.springbootmockito.controller.ItemControllerTest" />
-      <option name="METHOD_NAME" value="itemFromBusinessLayerTest" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="com.voam.springbootmockito.data.repository" />
+      <option name="MAIN_CLASS_NAME" value="com.voam.springbootmockito.data.repository.ItemRepositoryTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListMockTest.Spying" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ItemRepositoryTest.test_findAllMethod (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="springboot-mockito" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.voam.springbootmockito.list.mock.*" />
+          <option name="PATTERN" value="com.voam.springbootmockito.data.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.voam.springbootmockito.list.mock" />
-      <option name="MAIN_CLASS_NAME" value="com.voam.springbootmockito.list.mock.ListMockTest" />
-      <option name="METHOD_NAME" value="Spying" />
+      <option name="PACKAGE_NAME" value="com.voam.springbootmockito.data" />
+      <option name="MAIN_CLASS_NAME" value="com.voam.springbootmockito.data.ItemRepositoryTest" />
+      <option name="METHOD_NAME" value="test_findAllMethod" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -506,19 +485,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.ListMockTest.Spying" />
+      <item itemvalue="JUnit.ItemRepositoryTest" />
+      <item itemvalue="JUnit.ItemRepositoryTest (1)" />
+      <item itemvalue="JUnit.ItemRepositoryTest.test_findAllMethod (1)" />
       <item itemvalue="Spring Boot.SpringbootMockitoApplication" />
-      <item itemvalue="JUnit.HelloWorldControllerTest.helloWorld_basic" />
-      <item itemvalue="JUnit.ItemControllerTest.dummyItem" />
-      <item itemvalue="JUnit.ItemControllerTest.itemFromBusinessLayerTest" />
+      <item itemvalue="JUnit.ItemControllerTestIT" />
+      <item itemvalue="JUnit.HamcrestMatchersTest.learning" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ItemControllerTest.itemFromBusinessLayerTest" />
-        <item itemvalue="JUnit.ItemControllerTest.dummyItem" />
         <item itemvalue="Spring Boot.SpringbootMockitoApplication" />
-        <item itemvalue="JUnit.HelloWorldControllerTest.helloWorld_basic" />
-        <item itemvalue="JUnit.ListMockTest.Spying" />
+        <item itemvalue="JUnit.HamcrestMatchersTest.learning" />
+        <item itemvalue="JUnit.ItemControllerTestIT" />
+        <item itemvalue="JUnit.ItemRepositoryTest" />
+        <item itemvalue="JUnit.ItemRepositoryTest.test_findAllMethod (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -532,47 +512,47 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542050420509</updated>
-      <workItem from="1542050421922" duration="13101000" />
+      <workItem from="1542050421922" duration="23308000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="HelloWorldControllerTest_helloWorld_basic - 2018.11.12 at 23h 51m 51s.xml">
-      <configuration name="HelloWorldControllerTest.helloWorld_basic" configurationId="JUnit" />
+    <history-entry file="ItemRepositoryTest_(1) - 2018.11.13 at 16h 18m 24s.xml">
+      <configuration name="ItemRepositoryTest (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HelloWorldControllerTest_helloWorld_basic - 2018.11.12 at 23h 55m 08s.xml">
-      <configuration name="HelloWorldControllerTest.helloWorld_basic" configurationId="JUnit" />
+    <history-entry file="ItemRepositoryTest - 2018.11.13 at 16h 20m 03s.xml">
+      <configuration name="ItemRepositoryTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HelloWorldControllerTest_helloWorld_basic - 2018.11.12 at 23h 55m 20s.xml">
-      <configuration name="HelloWorldControllerTest.helloWorld_basic" configurationId="JUnit" />
+    <history-entry file="ItemRepositoryTest_(1) - 2018.11.13 at 16h 20m 23s.xml">
+      <configuration name="ItemRepositoryTest (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ItemControllerTest_dummyItem - 2018.11.13 at 00h 11m 00s.xml">
-      <configuration name="ItemControllerTest.dummyItem" configurationId="JUnit" />
+    <history-entry file="ItemRepositoryTest_(1) - 2018.11.13 at 16h 20m 56s.xml">
+      <configuration name="ItemRepositoryTest (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ItemControllerTest_dummyItem - 2018.11.13 at 00h 11m 15s.xml">
-      <configuration name="ItemControllerTest.dummyItem" configurationId="JUnit" />
+    <history-entry file="ItemControllerTestIT - 2018.11.13 at 22h 21m 24s.xml">
+      <configuration name="ItemControllerTestIT" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ItemControllerTest_itemFromBusinessLayerTest - 2018.11.13 at 00h 21m 52s.xml">
-      <configuration name="ItemControllerTest.itemFromBusinessLayerTest" configurationId="JUnit" />
+    <history-entry file="ItemControllerTestIT - 2018.11.13 at 22h 23m 22s.xml">
+      <configuration name="ItemControllerTestIT" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ItemControllerTest_dummyItem - 2018.11.13 at 00h 23m 06s.xml">
-      <configuration name="ItemControllerTest.dummyItem" configurationId="JUnit" />
+    <history-entry file="HamcrestMatchersTest_learning - 2018.11.13 at 22h 48m 12s.xml">
+      <configuration name="HamcrestMatchersTest.learning" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ItemControllerTest_dummyItem - 2018.11.13 at 00h 24m 03s.xml">
-      <configuration name="ItemControllerTest.dummyItem" configurationId="JUnit" />
+    <history-entry file="HamcrestMatchersTest_learning - 2018.11.13 at 22h 48m 37s.xml">
+      <configuration name="HamcrestMatchersTest.learning" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ItemControllerTest_itemFromBusinessLayerTest - 2018.11.13 at 00h 24m 11s.xml">
-      <configuration name="ItemControllerTest.itemFromBusinessLayerTest" configurationId="JUnit" />
+    <history-entry file="HamcrestMatchersTest_learning - 2018.11.13 at 22h 49m 05s.xml">
+      <configuration name="HamcrestMatchersTest.learning" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ItemControllerTest_itemFromBusinessLayerTest - 2018.11.13 at 00h 26m 19s.xml">
-      <configuration name="ItemControllerTest.itemFromBusinessLayerTest" configurationId="JUnit" />
+    <history-entry file="HamcrestMatchersTest_learning - 2018.11.13 at 22h 49m 34s.xml">
+      <configuration name="HamcrestMatchersTest.learning" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13101000" />
+    <option name="totallyTimeSpent" value="23308000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1366" height="768" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" />
@@ -582,10 +562,10 @@
       <window_info id="Capture Tool" />
       <window_info id="Learn" />
       <window_info id="Web" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23676682" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" weight="0.3295129" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Messages" weight="0.3295129" />
       <window_info anchor="bottom" id="Java Enterprise" />
@@ -593,7 +573,7 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3295129" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.27710843" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39971346" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -638,35 +618,28 @@
           <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/voam/springbootmockito/service/ItemBusinessService.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/voam/springbootmockito/data/ItemRepositoryTest.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/voam/springbootmockito/controller/ItemControllerTestIT.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/voam/springbootmockito/SpringbootMockitoApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="e#266#267#0" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/voam/springbootmockito/SpringbootMockitoApplicationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -677,31 +650,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/voam/springbootmockito/business/SomeBusinessImplTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/voam/springbootmockito/business/SomeBusinessImplStubTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
-          <folding>
-            <element signature="e#275#276#0" expanded="true" />
-            <element signature="e#314#315#0" expanded="true" />
-            <element signature="e#422#423#0" expanded="true" />
-            <element signature="e#461#462#0" expanded="true" />
-            <element signature="e#585#586#0" expanded="true" />
-            <element signature="e#619#620#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/voam/springbootmockito/data/SumDataService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -709,41 +657,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/voam/springbootmockito/business/SomeBusinessImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-          <folding>
-            <element signature="e#200#201#0" expanded="true" />
-            <element signature="e#252#253#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/voam/springbootmockito/business/SomeBusinessImplMockTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/mockito/mockito-core/2.23.0/mockito-core-2.23.0.jar!/org/mockito/ArgumentCaptor.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/voam/springbootmockito/list/mock/ListMockTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="80" column="41" selection-start-line="80" selection-start-column="41" selection-end-line="80" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -759,59 +676,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/voam/springbootmockito/domain/Item.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/voam/springbootmockito/data/ItemRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="55" column="20" lean-forward="true" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="20" />
+        <state relative-caret-position="165">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
           <folding>
-            <element signature="e#187#188#0" expanded="true" />
-            <element signature="e#212#213#0" expanded="true" />
-            <element signature="e#245#246#0" expanded="true" />
-            <element signature="e#273#274#0" expanded="true" />
-            <element signature="e#304#305#0" expanded="true" />
-            <element signature="e#331#332#0" expanded="true" />
-            <element signature="e#371#372#0" expanded="true" />
-            <element signature="e#403#404#0" expanded="true" />
-            <element signature="e#432#433#0" expanded="true" />
-            <element signature="e#460#461#0" expanded="true" />
-            <element signature="e#499#500#0" expanded="true" />
-            <element signature="e#533#534#0" expanded="true" />
-            <element signature="e#565#566#0" expanded="true" />
-            <element signature="e#596#597#0" expanded="true" />
-            <element signature="e#641#642#0" expanded="true" />
-            <element signature="e#681#682#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/voam/springbootmockito/controller/HelloWorldControllerTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/resources/data.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="45" column="29" lean-forward="true" selection-start-line="32" selection-start-column="6" selection-end-line="45" selection-end-column="29" />
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/voam/springbootmockito/SpringbootMockitoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/voam/springbootmockito/controller/ItemController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="19" column="44" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="44" />
+        <state relative-caret-position="331">
+          <caret line="26" column="38" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#202#203#0" expanded="true" />
             <element signature="e#234#235#0" expanded="true" />
             <element signature="e#597#598#0" expanded="true" />
             <element signature="e#659#660#0" expanded="true" />
+            <element signature="e#810#811#0" expanded="true" />
+            <element signature="e#872#873#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/voam/springbootmockito/service/ItemBusinessService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="287">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#173#174#0" expanded="true" />
@@ -820,10 +732,162 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/data.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="87" selection-start-line="11" selection-start-column="87" selection-end-line="11" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/voam/springbootmockito/controller/ItemControllerTestIT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="51" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/voam/springbootmockito/business/SomeBusinessImplStubTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/voam/springbootmockito/SpringbootMockitoApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/voam/springbootmockito/list/mock/ListMockTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="80" column="41" selection-start-line="80" selection-start-column="41" selection-end-line="80" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/voam/springbootmockito/data/ItemRepositoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/voam/springbootmockito/business/SomeBusinessImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/voam/springbootmockito/business/SomeBusinessImplMockTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-402">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/voam/springbootmockito/controller/HelloWorldControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/voam/springbootmockito/service/ItemBusinessServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/voam/springbootmockito/business/SomeBusinessImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/voam/springbootmockito/hamcrest/HamcrestMatchersTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/voam/springbootmockito/assertJ/AssertJTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/voam/springbootmockito/jsonPath/JsonPathTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/voam/springbootmockito/controller/ItemControllerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="83" column="29" lean-forward="true" selection-start-line="83" selection-start-column="29" selection-end-line="83" selection-end-column="29" />
+        <state relative-caret-position="180">
+          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/voam/springbootmockito/domain/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#399#400#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="45" lean-forward="true" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
         </state>
       </provider>
     </entry>
